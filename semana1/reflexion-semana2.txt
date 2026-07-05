@@ -1,0 +1,11 @@
+Dominar la terminal es vital para un desarrollador porque maximiza la
+velocidad y la eficiencia al prescindir del mouse, permitiendo gestionar
+archivos complejos en segundos mediante comandos directos. Esta herramienta 
+es el puente nativo para controlar tecnologías esenciales del día a día como 
+Git, Docker o entornos de servidores en la nube (como AWS), los cuales 
+carecen por completo de interfaces visuales con ventanas. Además, la 
+línea de comandos abre la puerta a la automatización de tareas repetitivas, 
+permitiendo compilar código, instalar paquetes de librerías y estructurar 
+proyectos enteros con un solo script de texto. En resumen, la terminal 
+transforma al programador de un simple usuario del sistema a un administrador 
+con control absoluto sobre el entorno de desarrollo y despliegue técnico.
