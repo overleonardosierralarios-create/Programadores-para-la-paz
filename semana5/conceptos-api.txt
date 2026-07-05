@@ -1,0 +1,12 @@
+¿Qué hace esta ruta?
+Esta ruta utiliza el método HTTP POST para recibir datos enviados de forma 
+segura desde el cliente en el cuerpo de la petición (req.body). Al procesar la 
+solicitud, extrae la propiedad 'mensaje' y responde automáticamente con un 
+objeto en formato JSON que confirma la recepción del estado y devuelve el 
+texto recibido.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir como un canal digital seguro para que los ciudadanos envíen 
+reportes, quejas o alertas anónimas sobre incidencias en el barrio (como fallas 
+de iluminación, baches o fugas de agua). El servidor procesa el reporte de 
+inmediato y genera un acuse de recibo automatizado para el usuario.

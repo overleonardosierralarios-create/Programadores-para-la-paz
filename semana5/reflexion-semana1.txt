@@ -1,0 +1,15 @@
+Para mí, el uso responsable de la información, la participación 
+ciudadana y una herramienta como Git se conectan a través de tres pilares:
+la transparencia, la colaboración y la responsabilidad. Cuando navego en 
+internet, entiendo que validar las fuentes y compartir datos reales 
+es clave para aportar positivamente a la sociedad y tomar decisiones 
+informadas como ciudadano. Esa misma lógica la aplico al trabajar con Git 
+en proyectos técnicos. Git no es solo para guardar código; me permite 
+documentar el "por qué" de cada decisión, saber quién hizo qué y trabajar 
+en equipo sin borrar el esfuerzo del otro. Al final, la verificación de datos 
+en la web es como el control de versiones en el software. Ambos procesos me 
+ayudan a evitar el caos, combatir la desinformación y construir soluciones 
+transparentes. Esto demuestra que la ética digital y la disciplina técnica 
+no van por caminos separados. Al contrario, se complementan para crear 
+comunidades más críticas, proyectos más sólidos y democracias mucho más 
+abiertas y auditables.

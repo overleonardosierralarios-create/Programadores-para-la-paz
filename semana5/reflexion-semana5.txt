@@ -1,0 +1,14 @@
+Las APIs actúan como puentes de comunicación organizados que permiten a las 
+comunidades centralizar y gestionar su información de manera eficiente. Al 
+definir reglas claras mediante rutas específicas (como GET o POST), una API 
+asegura que los reportes de incidentes, alertas vecinales o datos del sector 
+se reciban bajo un mismo formato estandarizado. Esto elimina el desorden de 
+los mensajes dispersos en redes sociales y permite clasificar las urgencias de 
+forma automática según su gravedad. Además, al estructurar la información en 
+formatos limpios como JSON, los datos pueden ser consumidos fácilmente por 
+otras herramientas aliadas, como mapas comunitarios interactivos o tableros 
+de control de servicios públicos. De esta manera, el uso de APIs transforma 
+la participación ciudadana informal en un sistema digital estructurado, 
+transparente y de rápido acceso que empodera a los líderes vecinales para 
+tomar decisiones basadas en datos reales y coordinar respuestas inmediatas 
+ante cualquier eventualidad en el territorio.

@@ -1,0 +1,11 @@
+Ruta http://localhost:3000 -> El servidor responde exitosamente mostrando el 
+mensaje en texto plano: "Servidor activo".
+
+
+Ruta http://localhost:3000/saludo -> El servidor responde mostrando un mensaje 
+de bienvenida dirigido a los usuarios que dice: "Hola comunidad".
+
+
+Ruta http://localhost:3000/mensaje/juan -> El servidor detecta el parámetro 
+dinámico ":nombre" en la URL (en este caso "juan") y responde de forma 
+personalizada diciendo: "Hola juan".
