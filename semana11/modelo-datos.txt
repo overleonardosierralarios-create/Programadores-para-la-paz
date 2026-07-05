@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id (Número único)
+- titulo (Texto corto)
+- descripcion (Texto largo)
+- fecha_creacion (Fecha)
+
+Propósito:
+Guardar de forma organizada las causas comunitarias, propuestas y necesidades del barrio que serán visibles de manera pública en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Número único)
+- causa_id (Relación con la Causa)
+- usuario_id (Relación con el Usuario)
+- fecha_apoyo (Fecha)
+
+Propósito:
+Registrar cuantitativamente los apoyos que recibe cada causa comunitaria, permitiendo auditar la participación ciudadana y hacer seguimiento al respaldo social de cada propuesta sin exponer datos personales.

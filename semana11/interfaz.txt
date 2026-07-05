@@ -1,0 +1,8 @@
+La interfaz de la plataforma estará estructurada de la siguiente manera:
+
+1. Formulario para crear una causa: Una sección accesible para usuarios autenticados que incluye campos de texto limpios para ingresar el título, la descripción detallada y la fecha de la propuesta comunitaria.
+2. Vista de causas disponibles: Un panel principal o listado público donde cualquier visitante puede leer las causas activas y su descripción general.
+3. Botón para apoyar una causa: Un botón interactivo ubicado al pie de cada causa que permite registrar un voto de respaldo únicamente a usuarios validados por el sistema.
+4. Contador de apoyos: Un indicador numérico visual que muestra en tiempo real cuántas personas han respaldado la iniciativa.
+
+Nota de diseño: La interfaz mantendrá una navegación clara y sencilla, asegurando que no se visualice información privada de los usuarios votantes.

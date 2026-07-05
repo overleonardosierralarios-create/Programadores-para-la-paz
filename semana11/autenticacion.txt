@@ -1,0 +1,3 @@
+El login permite identificar a un usuario mediante sus credenciales antes de otorgarle acceso a las funciones del sistema.
+Algunas rutas deben estar protegidas de forma obligatoria porque contienen información privada, registros de auditoría interna o acciones administrativas críticas que no deben estar disponibles para el público general.
+Bajo ninguna circunstancia se deben exponer públicamente contraseñas cifradas, números de documentos de identidad, teléfonos particulares, direcciones exactas de los denunciantes, tokens de acceso o claves de API de la comunidad.

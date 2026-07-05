@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana debe contar con una base de datos estable porque necesita
+almacenar evidencias de forma segura, estructurada y auditable a lo largo de todo el proceso técnico.
+La autenticación de usuarios es indispensable para garantizar la legitimidad del control ciudadano,
+evitando suplantaciones de identidad, votos duplicados o la alteración maliciosa de los registros del grupo.
+Por su parte, la protección de información sensible actúa como un pilar ético y legal indispensable,
+ya que resguarda la privacidad de los vecinos frente a posibles filtraciones, represalias o acoso.
+Si la plataforma carece de estos tres componentes de seguridad digital, la comunidad perdería la confianza
+en la herramienta tecnológica y dejaría de reportar las problemáticas reales de su entorno local.
+Por lo tanto, coordinar bases de datos y seguridad es la base técnica que sostiene la veeduría responsable.
+Garantizar un entorno digital robusto es lo que transforma la participación en un ejercicio cívico confiable.
