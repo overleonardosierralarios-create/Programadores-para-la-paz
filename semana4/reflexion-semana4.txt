@@ -1,0 +1,12 @@
+Las tecnologías abiertas como Node.js son fundamentales para las iniciativas 
+ciudadanas porque garantizan una total autonomía tecnológica. Al utilizar 
+software de código abierto, las comunidades no dependen de costosas licencias 
+de empresas privadas ni de sus decisiones comerciales, permitiendo que las 
+herramientas sigan funcionando indefinidamente. Además, este ecosistema 
+gratuito facilita el desarrollo de soluciones adaptadas con total precisión a 
+los problemas reales de cada territorio, democratizando el acceso a la 
+innovación técnica. La naturaleza colaborativa de Node.js también promueve 
+que los propios miembros de la comunidad aprendan a programar, modifiquen el 
+código existente y mantengan los sistemas de forma colectiva. De este modo, 
+la tecnología deja de ser un producto inaccesible y se transforma en un bien 
+común que empodera y fortalece el tejido social de la región.
