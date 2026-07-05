@@ -1,0 +1,5 @@
+1. No exponer datos personales ni sensibles de los miembros de la comunidad de forma pública.
+2. Proteger credenciales mediante el uso obligatorio de contraseñas robustas y cifradas.
+3. Usar conexiones seguras y protocolos HTTPS para cifrar el tráfico de datos en la plataforma.
+4. Registrar accesos y mantener un historial de auditoría de las acciones de los administradores.
+5. Limitar acceso a información sensible asignando permisos estrictos basados en roles específicos.

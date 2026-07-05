@@ -1,0 +1,6 @@
+1. Proteger contraseñas mediante el uso de gestores y autenticación de dos
+factores.
+2. No compartir credenciales ni almacenarlas en archivos de texto públicos.
+3. Mantener software actualizado junto con los parches de seguridad del sistema.
+
+
