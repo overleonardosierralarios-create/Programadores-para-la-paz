@@ -1,0 +1,9 @@
+La estabilidad y seguridad en un servidor son esenciales para las plataformas comunitarias,
+ya que representan la única garantía de que los canales de participación sigan disponibles para el colectivo.
+Si un servidor se cae constantemente por falta de mantenimiento, la comunidad pierde el acceso
+a herramientas críticas para la toma de decisiones, asambleas digitales o reportes de veeduría ciudadana.
+Por otro lado, la falta de seguridad expone la infraestructura a ataques cibernéticos malintencionados
+que podrían alterar la veracidad de la información publicada o inhabilitar por completo los servicios.
+Mantener un monitoreo constante a través de logs permite detectar fallas a tiempo antes de que afecten al grupo,
+lo cual construye una base de confianza digital sólida donde los integrantes se sienten respaldados.
+Así, el cuidado técnico del servidor se convierte en el soporte logístico que sostiene la organización social.
