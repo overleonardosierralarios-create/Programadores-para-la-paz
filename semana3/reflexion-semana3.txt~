@@ -1,0 +1,13 @@
+El uso de Git para mantener un registro de cambios es crucial porque funciona 
+como una máquina del tiempo que protege la estabilidad de cualquier proyecto 
+de software. Esta bitácora digital permite a los desarrolladores revertir de 
+inmediato el código a una versión previa y funcional si se introduce un error 
+crítico en producción. Asimismo, Git facilita el trabajo colaborativo 
+simultáneo mediante ramas independientes, evitando que los programadores 
+sobrescriban o destruyan el trabajo de sus compañeros al fusionar archivos. 
+Cada punto de control guardado incluye un autor y un mensaje detallado, lo que 
+genera una trazabilidad total para entender el contexto de cada decisión 
+técnica tomada en el pasado. En conclusión, esta herramienta transforma el 
+desarrollo en un proceso seguro, auditable y altamente eficiente, blindando 
+al equipo contra la pérdida accidental de datos e impulsando la experimentación 
+sin riesgos dentro del código fuente.

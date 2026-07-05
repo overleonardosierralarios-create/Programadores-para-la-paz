@@ -1,0 +1,18 @@
+REPOSITORIO: Es la carpeta o base de datos central donde Git almacena de forma 
+organizada todos los archivos de tu proyecto, junto con el historial completo 
+de sus modificaciones [1, 2]. Puede residir de forma local en tu propia 
+computadora o de forma remota en un servidor en la nube como GitHub para 
+permitir el trabajo colaborativo.
+
+
+COMMIT: Es una "instantánea" o punto de control que guarda de manera permanente 
+los cambios específicos que has realizado en los archivos de tu repositorio. 
+Cada commit funciona como un bloque en el historial del proyecto, requiriendo 
+obligatoriamente un mensaje descriptivo que explique qué se modificó y por qué.
+
+
+PUSH: Es el comando que se encarga de subir y transferir todos los commits que 
+has guardado localmente en tu computadora hacia el repositorio remoto en la 
+nube. Su función principal es actualizar el servidor compartido para que el 
+resto de los desarrolladores del equipo puedan ver y descargar tu código más 
+reciente.
