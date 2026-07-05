@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+El flujo se activa de forma automatizada mediante un nodo Webhook de n8n cada vez que un ciudadano envía un nuevo formulario de reporte técnico en la plataforma comunitaria.
+
+¿Qué mensaje se enviaría a Telegram?
+Se enviaría el mensaje: '¡Alerta de Veeduría! Se ha registrado una nueva incidencia comunitaria en el sistema. Por favor, ingrese al panel de control para revisar los detalles del caso de forma técnica.'
+
+¿Qué información no debería enviarse por seguridad?
+Por estrictas razones de seguridad digital y privacidad, jamás deben enviarse nombres completos, números de documentos de identidad, números telefónicos particulares, direcciones exactas de los denunciantes, ni contraseñas de acceso.

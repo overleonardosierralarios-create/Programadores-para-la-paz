@@ -1,0 +1,10 @@
+Las metodologías ágiles facilitan que una comunidad organice sus demandas de forma ordenada,
+evitando el caos mediante un backlog que prioriza las necesidades más urgentes del colectivo.
+Al trabajar con iteraciones cortas, los ciudadanos pueden ver resultados tangibles de manera rápida,
+lo cual incrementa la motivación grupal y la confianza en los procesos de veeduría ciudadana.
+Por su parte, la automatización con n8n reduce la carga de trabajo manual de los coordinadores,
+garantizando que las alertas de control se distribuyan eficientemente sin depender de procesos humanos.
+Canales populares como Telegram actúan como el puente de comunicación ideal para la red social,
+ya que masifican las notificaciones y convocatorias de forma inmediata en los teléfonos del barrio.
+En conjunto, estas herramientas estructuran la participación democrática con un enfoque moderno y seguro.
+Por lo tanto, la tecnología aplicada con rigor metodológico potencia el impacto del control cívico.

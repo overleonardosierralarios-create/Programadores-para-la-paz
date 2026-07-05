@@ -1,0 +1,6 @@
+Historias de Usuario del Backlog (Ordenadas de Mayor a Menor Prioridad):
+
+1. [ALTA] Como ciudadano afectado quiero registrar una incidencia con evidencia fotográfica para dejar constancia pública del problema en mi barrio.
+2. [MEDIA] Como coordinador de la veeduría quiero recibir una alerta automática en Telegram para enterarme de inmediato cuando se cree un nuevo reporte.
+3. [MEDIA] Como miembro del equipo de control quiero consultar los reportes históricos filtrados por fecha para hacerles un seguimiento administrativo formal.
+4. [BAJA] Como vecino de la comunidad quiero visualizar un mapa público con las incidencias resueltas para verificar el avance de las obras.

@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la creación del registro de incidencias por parte del ciudadano y la consulta de reportes por parte del equipo de control.
+
+¿Por qué son las más importantes?
+Porque representan la funcionalidad mínima viable del sistema; sin un canal para recolectar las evidencias de la comunidad y un panel para leerlas, la veeduría no puede iniciar ninguna acción de control ciudadano.
+
+Definición Simple de 'Terminado' (Criterios de Aceptación):
+1. Funciona: El formulario permite enviar y almacenar los datos correctamente sin errores técnicos.
+2. Fue probada: Se realizaron pruebas simuladas con éxito tanto en entornos de desarrollo local como móvil.
+3. Quedó registrada en Git: El código base de la funcionalidad se subió de forma limpia al repositorio de GitHub.
