@@ -1,0 +1,10 @@
+AUTOMATIZACIÓN DEL SISTEMA CON TELEGRAM / n8n
+
+- Evento que activa la automatización: Registro de una nueva causa o cumplimiento del 100% de los apoyos requeridos para una causa en la plataforma.
+- Mensaje que se envía: " ¡Nueva iniciativa comunitaria registrada! La causa '[Título de la Causa]' ha sido creada con éxito y ya está disponible en la plataforma para recibir el apoyo de la comunidad. ¡Participa y haz valer tu voz!"
+
+- Información que NO debe enviarse por motivos de seguridad y privacidad:
+  * Nombres completos de los ciudadanos que apoyan.
+  * Documentos de identidad (cédulas) o datos de contacto (teléfonos, correos electrónicos).
+  * Direcciones residenciales de los usuarios.
+  * Comentarios privados, contraseñas o datos sensibles de moderación interna del backend.

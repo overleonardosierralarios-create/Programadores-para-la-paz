@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+1. Creación de la Causa: Un ciudadano o líder comunitario ingresa a la plataforma web y registra una nueva causa social o comunitaria completando un formulario con título y descripción.
+2. Almacenamiento en Base de Datos: El backend procesa el formulario y almacena la información de la causa en la base de datos relacional de forma segura.
+3. Registro de Apoyos (Votación/Firma): Otros miembros de la comunidad ingresan a la plataforma, visualizan la causa activa y hacen clic para registrar su apoyo o firma digital a la iniciativa.
+4. Conteo e Incremento: El sistema actualiza en tiempo real el contador de apoyos vinculados a esa causa específica en la base de datos.
+5. Cierre y Generación de PDF: Al alcanzar una meta o cumplirse un plazo, el sistema compila automáticamente los datos de la causa y el número total de apoyos, generando un documento PDF formal, firmado digitalmente y listo para ser presentado ante las entidades pertinentes.
