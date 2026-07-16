@@ -9,4 +9,4 @@ para mantener su privacidad a salvo. Automatizar procesos como las notificacione
 Telegram o la generación de documentos en PDF nos permite conectar mejor a las comunidades 
 y hacer que las iniciativas tengan un impacto real en menos tiempo. En conclusión, 
 el desarrollo de software es un canal excelente para crear soluciones reales y fortalecer la participación 
-de los ciudadanos de una forma organizada, transparente y moderna.
+de los ciudadanos de una forma organizada, transparentes y moderna.
