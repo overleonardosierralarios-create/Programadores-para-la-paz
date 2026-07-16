@@ -1,8 +1,0 @@
-1. buscar la información
-2. revisar la fuente
-3. confirmar la noticia
-4. Verificar la fecha de publicación.
-5. Contextualizar leyendo el contenido completo antes de reaccionar.
-6. Contrastar el dato buscando la misma noticia en otros portales oficiales.
-7. Compartir el enlace original únicamente si se validaron todos los pasos 
-previos.
