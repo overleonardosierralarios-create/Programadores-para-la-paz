@@ -1,0 +1,12 @@
+Durante este curso he aprendido que la tecnología puede ser una herramienta
+muy potente para facilitar la organización social y el trabajo comunitario. 
+Muchas veces pensamos que el software solo sirve para empresas o negocios privados, 
+pero proyectos sencillos como "Petición en 3 Clics" demuestran que la programación 
+puede dar voz a las personas y simplificar trámites comunitarios que antes eran muy
+lentos. También aprendí que construir estas herramientas requiere una gran 
+responsabilidad, especialmente en la forma en que manejamos los datos de las personas 
+para mantener su privacidad a salvo. Automatizar procesos como las notificaciones por
+Telegram o la generación de documentos en PDF nos permite conectar mejor a las comunidades 
+y hacer que las iniciativas tengan un impacto real en menos tiempo. En conclusión, 
+el desarrollo de software es un canal excelente para crear soluciones reales y fortalecer la participación 
+de los ciudadanos de una forma organizada, transparente y moderna.

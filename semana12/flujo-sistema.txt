@@ -1,0 +1,7 @@
+Flujo de funcionamiento - Petición en 3 Clics
+
+1. Un ciudadano ingresa a la plataforma web y registra una nueva causa comunitaria llenando un formulario con título y descripción del problema.
+2. La base de datos recibe la información a través del backend y guarda la nueva causa con un estado "activa".
+3. Otros miembros de la comunidad entran a la página, ven la causa y hacen clic en el botón de apoyar para sumar su firma o voto de respaldo.
+4. El backend registra cada apoyo vinculándolo a la causa correspondiente y va actualizando el contador de firmas en tiempo real.
+5. Al alcanzar la meta de apoyos, el sistema compila la información de la causa y el total de firmas para generar automáticamente un documento PDF formal, notificando a la comunidad que la petición está lista para descargarse y presentarse.

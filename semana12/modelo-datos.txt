@@ -1,0 +1,28 @@
+========================================================================
+                   DISEÑO DEL MODELO DE DATOS
+========================================================================
+
+ENTIDAD: Causa (Almacena las iniciativas comunitarias creadas)
+------------------------------------------------------------------------
+Atributo         | Tipo de Datos     | Restricciones / Propiedades
+------------------------------------------------------------------------
+id               | INT               | PRIMARY KEY, AUTO_INCREMENT
+titulo           | VARCHAR(150)      | NOT NULL (Título descriptivo)
+descripcion      | TEXT              | NOT NULL (Contexto y justificación)
+fecha_creacion   | TIMESTAMP         | DEFAULT CURRENT_TIMESTAMP
+estado           | VARCHAR(20)       | DEFAULT 'activa' (activa / completada)
+------------------------------------------------------------------------
+
+ENTIDAD: Apoyo (Registra las firmas o respaldos individuales)
+------------------------------------------------------------------------
+Atributo         | Tipo de Datos     | Restricciones / Propiedades
+------------------------------------------------------------------------
+id               | INT               | PRIMARY KEY, AUTO_INCREMENT
+id_causa         | INT               | FOREIGN KEY REFERENCES id_causa ON DELETE CASCADE
+nombre_ciudadano | VARCHAR(100)      | NOT NULL (Firma o validación)
+fecha_apoyo      | TIMESTAMP         | DEFAULT CURRENT_TIMESTAMP
+------------------------------------------------------------------------
+
+RELACIÓN Y DISEÑO FÍSICO:
+- Tipo de Relación: Una Causa puede tener de 0 a muchos (1:N) Apoyos, pero un Apoyo pertenece exclusivamente a una Causa.
+- Integridad Referencial: Se define la restricción FOREIGN KEY (causa_id) con la regla "ON DELETE CASCADE". Esto asegura que si una causa se elimina del sistema por moderación, todos los registros de apoyos asociados se limpien de forma automática para mantener la base de datos consistente y libre de registros huérfanos.

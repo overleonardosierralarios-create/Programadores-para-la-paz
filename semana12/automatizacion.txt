@@ -1,0 +1,21 @@
+
+            ARQUITECTURA DE INTEGRACIONES Y AUTOMATIZACIÓN
+
+1. EVENTO DISPARADOR (TRIGGER):
+   El flujo se activa de forma asíncrona mediante un HTTP Webhook enviado desde el backend del sistema "Petición en 3 Clics" hacia el webhook receptor de n8n, cuando una causa alcanza la meta de apoyos o cuando se crea una nueva iniciativa de alto impacto.
+
+2. LOGÍSITICA DEL MENSAJE (TELEGRAM BOT OUTBOUND):
+   n8n recibe la petición, extrae las variables del JSON (Título de la causa, meta de apoyos, enlace del PDF generado) y formatea una plantilla HTML para enviarla al canal o grupo de Telegram mediante la API del Bot:
+   
+   "¡Meta Alcanzada con Éxito!"
+   La comunidad ha respaldado masivamente la iniciativa: *'[titulo_causa]'*. 
+   Se ha recolectado el total de apoyos requeridos y se ha generado el documento formal de petición para las entidades pertinentes.
+   
+   Puedes descargar la petición oficial aquí: [Enlace al Documento]"
+
+3. PROTOCOLO DE SEGURIDAD Y MINIMIZACIÓN DE DATOS:
+   Para garantizar la seguridad de la información y mitigar riesgos de ingeniería social o doxxing, el payload enviado a n8n y publicado en Telegram tiene estrictamente prohibido incluir:
+   - Identificaciones personales (Cédulas de ciudadanía, NIT).
+   - Datos de contacto directo (Teléfonos, correos electrónicos).
+   - Direcciones físicas o geolocalización exacta de los firmantes.
+   - Datos de salud, opiniones políticas explícitas de cada votante o cualquier dato sensible que vulnere la privacidad individual de los participantes.
